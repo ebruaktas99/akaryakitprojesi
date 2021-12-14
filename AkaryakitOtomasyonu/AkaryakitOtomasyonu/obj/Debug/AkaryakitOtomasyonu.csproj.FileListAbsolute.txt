@@ -1,0 +1,10 @@
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.exe.config
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.exe
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\bin\Debug\AkaryakitOtomasyonu.pdb
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.Form1.resources
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.Properties.Resources.resources
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.exe
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.pdb
+C:\Users\Ebru Aktaş\Desktop\c#projelerim\AkaryakitOtomasyonu\AkaryakitOtomasyonu\obj\Debug\AkaryakitOtomasyonu.csproj.CoreCompileInputs.cache
